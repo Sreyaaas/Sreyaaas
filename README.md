@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👋 Hi, I’m @Sreyaaas
-- 👀 A Huuuuge tech enthusiast.
+- 👀 A huuuuge tech enthusiast.
 - 💞️ I’m looking to collaborate on projects related to Data Science
 - 📫 How to reach me sreyaas.sai@gmail.com
 <!--
