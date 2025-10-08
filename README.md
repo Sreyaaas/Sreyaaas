@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @Sreyaaas
 - 💞️ I’m looking to collaborate on projects related to Data Science
-- 📫 How to reach me sreyaas.sai@gmail.com
+- 📫 How to reach me sreyassai7@gmail.com
 <!--
 **Sreyaaas/Sreyaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
