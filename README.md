@@ -1,19 +1,28 @@
-### Hi there 👋
+# 👋 Hi, I'm Sreyas
 
-👋 Hi, I’m @Sreyaaas
-- 💞️ I’m looking to collaborate on projects related to Data Science
-- 📫 How to reach me sreyassai7@gmail.com
-<!--
-**Sreyaaas/Sreyaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Learning AI, LLMs & building cool things  
+💡 Exploring local models, Transformers, and GenAI  
+📚 Always experimenting, always improving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+- Interested in LLMs, ML, and GenAI  
+- Learning Transformers & distillation  
+- Running local models (Llama 3.2, Gemma, Phi, etc.)  
+- Building small AI projects to level up fast
+
+---
+
+## 🛠 Tech I Use
+Python • PyTorch • TensorFlow • Scikit-learn  
+YOLOv8 • OpenCV • Streamlit  
+LangChain • ChromaDB • Ollama  
+
+
+---
+
+## 📫 Contact
+**Email:** sreyassai7@gmail.com  
+
+--- 
