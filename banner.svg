@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Sreyas Sai — I teach machines to see, read and reason.">
+  <style>
+    .bg { fill: #FAFAF8; }
+    .fg { fill: #111110; }
+    .muted { fill: #6B6B66; }
+    .acc { fill: #FF4F00; }
+    .accs { stroke: #FF4F00; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0D1117; }
+      .fg { fill: #EDEDEA; }
+      .muted { fill: #96968F; }
+      .acc { fill: #FF6321; }
+      .accs { stroke: #FF6321; }
+    }
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .h { font-size: 44px; font-weight: 600; }
+    .mono { font-family: ui-monospace, "SFMono-Regular", Consolas, monospace; font-size: 12px; fill: #fff; }
+    .box { fill: none; stroke-width: 2; }
+    .det { animation: in .5s ease-out both; }
+    .d1 { animation-delay: .4s; } .d2 { animation-delay: .8s; } .d3 { animation-delay: 1.2s; }
+    @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect class="bg" width="900" height="220" rx="12"/>
+  <text class="muted" x="40" y="58" font-size="18">Sreyas Sai — AI engineer, Bengaluru</text>
+
+  <!-- fixed-width words so the boxes line up whatever font the viewer has -->
+  <text class="fg h" x="40" y="132" textLength="396" lengthAdjust="spacingAndGlyphs">I teach machines to</text>
+  <text class="fg h" x="446" y="132" textLength="70" lengthAdjust="spacingAndGlyphs">see</text>
+  <text class="fg h" x="526" y="132">,</text>
+  <text class="fg h" x="548" y="132" textLength="90" lengthAdjust="spacingAndGlyphs">read</text>
+  <text class="fg h" x="656" y="132" textLength="74" lengthAdjust="spacingAndGlyphs">and</text>
+  <text class="fg h" x="746" y="132" textLength="120" lengthAdjust="spacingAndGlyphs">reason</text>
+  <text class="fg h" x="874" y="132">.</text>
+
+  <g class="det d1">
+    <rect class="box accs" x="440" y="92" width="82" height="52"/>
+    <rect class="acc" x="439" y="75" width="80" height="18"/>
+    <text class="mono" x="444" y="88">vision 0.98</text>
+  </g>
+  <g class="det d2">
+    <rect class="box accs" x="542" y="92" width="102" height="52"/>
+    <rect class="acc" x="541" y="75" width="62" height="18"/>
+    <text class="mono" x="546" y="88">nlp 0.96</text>
+  </g>
+  <g class="det d3">
+    <rect class="box accs" x="740" y="92" width="132" height="52"/>
+    <rect class="acc" x="739" y="75" width="62" height="18"/>
+    <text class="mono" x="744" y="88">llm 0.94</text>
+  </g>
+
+  <text class="muted" x="40" y="186" font-size="16">Generative AI at TCS · computer vision · local LLMs · reverse-engineering hardware</text>
+</svg>
